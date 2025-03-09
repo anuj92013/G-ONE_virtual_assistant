@@ -182,7 +182,7 @@ function takeCommand(message) {
     }
     else if(message.includes("open your favourite youtube channel")) 
     {
-        window.open("https://www.youtube.com/@AnujSharma_1627", "_blank");
+        window.open("https://www.youtube.com/@AnujSharma_xvi", "_blank");
         speak("Opening it...", lang);
     }
     else if (message.includes("open google")) {
